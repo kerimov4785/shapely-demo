@@ -528,6 +528,9 @@
     .photos{
         flex-direction: row;
     }
+    .bg{
+        background-attachment:scroll;
+    }
     .photos div{
         width: 100%;
     }
