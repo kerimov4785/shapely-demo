@@ -531,6 +531,9 @@
     .bg{
         background-attachment:scroll;
     }
+    .bgparallax{
+        background-attachment: scroll;
+    }
     .photos div{
         width: 100%;
     }
